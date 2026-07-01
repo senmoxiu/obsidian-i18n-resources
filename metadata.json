@@ -11,5 +11,18 @@
         "created_at": "2026-07-01T18:51:37.498Z",
         "updated_at": "2026-07-01T18:51:37.498Z",
         "type": "plugin"
+    },
+    {
+        "id": "b_mfyf925c2zX4Azw-xbdDRMjL1n97_H",
+        "plugin": "obsidian-git",
+        "language": "zh-cn",
+        "version": "2.38.5",
+        "supported_versions": "2.38.5",
+        "title": "Git",
+        "description": "Git Localization & Tweaks",
+        "hash": "3b5c00813b5c00813b5c00813b5c0081",
+        "created_at": "2026-07-01T19:12:41.669Z",
+        "updated_at": "2026-07-01T19:12:41.669Z",
+        "type": "plugin"
     }
 ]
